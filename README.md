@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patnaik-crypto
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning how Data Science in healthcare/BFSI
+- 🌱 I’m currently learning Data Science in healthcare/BFSI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
